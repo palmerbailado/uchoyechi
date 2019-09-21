@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aedaequoce.nathanlaan.github.io/sitemap.xml
